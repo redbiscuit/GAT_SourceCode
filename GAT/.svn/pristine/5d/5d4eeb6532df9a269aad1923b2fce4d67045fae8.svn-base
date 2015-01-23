@@ -1,0 +1,7 @@
+package com.baidu.gameqa.Gat.executor;
+
+
+public interface ITestCaseExecutor extends IExecutor 
+{
+
+}
